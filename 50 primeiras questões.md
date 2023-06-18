@@ -1,6 +1,6 @@
 # LeetCode-traduzido-para-criancas
 LeetCode problemas
-
+https://chat.openai.com/share/ba696b64-7aa2-4182-a484-fda4cf449b36
 
 1. Dois Soma: Dado o array [2, 7, 11, 15] e o alvo 9, precisamos encontrar dois números nesse array que somem 9. No caso, os números 2 e 7 somam 9.
 
